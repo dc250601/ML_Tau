@@ -1,0 +1,11 @@
+# Model Weights anf Datasets
+*.pt
+*.zip
+*.parquet
+
+#Miscelleneous
+
+*/__pycache__
+*/.ipynb_checkpoints
+*./wandb
+*./weights*
